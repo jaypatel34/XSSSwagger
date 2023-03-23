@@ -1,0 +1,6 @@
+openapi: "3.0.0"
+
+info:
+  title: Swagger XSS
+  description:
+    <h4>Jay <img src=x x=x></h4>
