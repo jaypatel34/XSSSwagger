@@ -1,0 +1,6 @@
+openapi: "3.0.0"
+
+info:
+  title: Swagger XSS
+  description:
+    <input type="text" id="search-text" name="query" value="" onfocus="alert(1)" autofocus="" />
